@@ -1,0 +1,2 @@
+# AlpathCore
+.NetCore
